@@ -1,0 +1,5 @@
+streamlit>=1.40
+anthropic>=0.69
+requests>=2.31
+pandas>=2.1
+openpyxl>=3.1
